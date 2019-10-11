@@ -15,6 +15,6 @@ This package also requires TensorFlow (tested on v1.7.0) to be installed.
 ## Structure
 The directory is organised as follows:
 * __distBO__: contains the main code
-* __experiment__: contains the API code (train_test.py) and some experimental configuration code to generate the cmd line
+* __experiment__: contains the API code (train_test.py) and experimental configuration code to generate the cmd line
 * __protein__: contains the pre-processed protein dataset 
 * __parkinson__: contains the pre-processed parkinsons dataset (https://archive.ics.uci.edu/ml/datasets/parkinsons)
