@@ -1,4 +1,4 @@
-# VBAgg
+# DistBO
 Python code for the following paper:
 
 Ho Chung Leon Law, Peilin Zhao, Lucian Chan, Junzhou Huang, Dino Sejdinovic,
