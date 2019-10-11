@@ -1,5 +1,5 @@
 # DistBO
-Python code for the following paper:
+Python code for the following paper (partially adapted from https://github.com/fmfn/BayesianOptimization):
 
 Ho Chung Leon Law, Peilin Zhao, Lucian Chan, Junzhou Huang, Dino Sejdinovic,
 Hyperparameter Learning via Distributional Transfer, NeurIPS 2019.
